@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at <a href="https://codeandgo.com.br/">Code & Go</a> 
-- 🌱 I’m currently learning React, Typescript and Java.
+- 🔭 I’m currently working at <a href="https://vexpenses.com.br//">Vexpenses/a> 
+- 🌱 I’m currently learning React and Typescript.
 
 <div>
   <a href="https://github.com/Pedroenrick"/>
