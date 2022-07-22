@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at <a href="https://vexpenses.com.br//">Vexpenses/a> 
+- 🔭 I’m currently working at <a href="https://vexpenses.com.br//">Vexpenses </a> 
 - 🌱 I’m currently learning React and Typescript.
 
 <div>
